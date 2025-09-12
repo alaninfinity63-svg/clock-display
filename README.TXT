@@ -42,3 +42,4 @@ System.out.println(p1.getStatus(500));   // Get status after 500ms delay and pri
             34 1,2,3,4
             35 infinite
             36
+            37 2nd is easier because there is less code to add
